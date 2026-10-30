@@ -1,5 +1,5 @@
 # Tradu-o-Nintendo-Switch-Rise-of-the-Third-Power
-Tradução para atmosphere do jogo Rise of the Third Power
+Tradução para atmosphere do jogo Rise of the Third Power(usado auxilio de ia para fontes)
 Rise of the Third Power — Português brasileiro — Versão 4
 Tradução feita por Jandir lima.
 REVISÃO CONTEXTUAL
@@ -20,6 +20,8 @@ Compatibilidade: título 0100F05015052000 e atualização v327680.
 
 O pacote foi reaberto e validado no computador. As escolhas, os comandos
 
+
+doação pix: jandirlima19@gmail.com
 
 Bom Jogo
 
